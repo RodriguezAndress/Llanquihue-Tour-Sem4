@@ -1,1 +1,1 @@
-Llanquihue Tour es un sistema automatizado de una agencia de turismo que busca facilitar el trabajo y evitar errores que puedan ocurrir con el registro manual. En este caso se aplica el uso de toString y fromString y registro y lectura de archivo txt. *Prueba formativa semana 4*
+Llanquihue Tour es un sistema automatizado de una agencia de turismo que busca facilitar el trabajo y evitar errores que puedan ocurrir con el registro manual. En este caso se aplica el uso de toString y fromString además del registro y lectura de archivo txt. *Prueba formativa semana 4*
